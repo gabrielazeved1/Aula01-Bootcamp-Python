@@ -2,4 +2,4 @@ nome_usuario = input("Digite seu nome: ")
 salario_usuario = int(input("Digite seu salario: "))
 bonus = float(input("Digite o valor do bonus: "))
 print ("o calculo do KPI do bonus de 2025 é de {}".format(1000 + (salario_usuario*bonus)))
-       
+print ("oi")
